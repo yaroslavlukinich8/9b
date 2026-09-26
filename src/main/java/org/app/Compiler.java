@@ -2,7 +2,7 @@ package org.app;
 
 public class Compiler {
     private String text;
-    private ILCode code;
+//    private ILCode code;
 
     public Compiler(String text) {
         this.text = text;
